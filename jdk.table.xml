@@ -1,0 +1,30 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (zhuican_web)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="C:\Anaconda3\envs\zhuican_web\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/envs/zhuican_web/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/envs/zhuican_web/Lib" type="simple" />
+            <root url="file://C:/Anaconda3/envs/zhuican_web" type="simple" />
+            <root url="file://C:/Anaconda3/envs/zhuican_web/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-776025930" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/projects/dev/zhuican_web" />
+    </jdk>
+  </component>
+</application>
