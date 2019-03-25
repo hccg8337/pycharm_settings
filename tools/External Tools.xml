@@ -1,0 +1,14 @@
+<toolSet name="External Tools">
+  <tool name="pylint" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Anaconda3\Scripts\pylint.exe" />
+      <option name="PARAMETERS" value="--init-hook &quot;import sys;sys.path.append('..');sys.path.append('.')&quot;  -rn $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+    <filter>
+      <option name="NAME" value="" />
+      <option name="DESCRIPTION" value="" />
+      <option name="REGEXP" value="$FILE_PATH$:$LINE$:" />
+    </filter>
+  </tool>
+</toolSet>
