@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="test_data" type="PLAIN_TEXT" />
       <mapping pattern="train_data" type="PLAIN_TEXT" />
+      <mapping pattern="label_112" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
