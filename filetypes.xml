@@ -7,6 +7,7 @@
       <mapping pattern="test_data" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
