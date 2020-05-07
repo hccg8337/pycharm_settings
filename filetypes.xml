@@ -6,6 +6,7 @@
       <mapping pattern="test_data" type="PLAIN_TEXT" />
       <mapping pattern="label_112" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping ext="chenzhongjie" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
